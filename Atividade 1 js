@@ -1,0 +1,14 @@
+import { LightningElement } from 'lwc';
+
+export default class Lead extends LightningElement {
+    pessoa={
+        nome:"Aline",
+        sobrenome:"Celiane",
+        idade:"22",
+        email:"aline@sousa",
+        classificacao: "Hot",
+        empresa: "AC Company",
+        receita: "50000R$",
+
+    }
+}
