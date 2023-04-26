@@ -1,0 +1,20 @@
+<template>
+    <lightning-card>
+        <div style="background-color: antiquewhite; font-size:large">
+           <center>
+               <h1>Informações do Lead  </h1>
+
+           </center>
+
+        </div>
+        <br>
+
+        <div style="background-color: rgb(231, 211, 243); margin: laft 10px; " > <br>
+           <br> <c-oppsdaconta id = "1" name="Aline" value="50" stagename="Closed Won"> </c-oppsdaconta>  <br>
+            <c-oppsdaconta id = "2" name="Alan" value="60" stagename="Closed Won"> </c-oppsdaconta>   <br>
+            <c-oppsdaconta id = "3" name="Liz" value="45" stagename="Closed Lost"> </c-oppsdaconta>   <br>
+            <c-oppsdaconta id = "4" name="Sousa" value="55" stagename="Closed Lost"> </c-oppsdaconta> <br>
+            <c-oppsdaconta id = "5" name="Vino" value="50" stagename="Closed Won"> </c-oppsdaconta>   <br>
+
+        </div>
+    </lightning-card>
