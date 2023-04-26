@@ -1,0 +1,19 @@
+<template>
+    <div style="background-color: aquamarine; font-size:large; color:brown ">
+       <center>
+
+           <h1 >  Informações do Lead  </h1>
+        </center>
+
+    </div>
+    <div style="background-color: bisque;">
+        <p>Nome {pessoa.nome} </p>
+        <p>Sobrenome {pessoa.sobrenome} </p>
+        <p>Idade {pessoa.idade}</p>
+        <p>Email {pessoa.email} </p>
+        <p>Classificação {pessoa.classificacao} </p>
+        <p>Empresa {pessoa.empresa} </p>
+        <p>Receita Anual {pessoa.receita} </p>
+
+    </div>
+</template>
