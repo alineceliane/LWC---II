@@ -1,0 +1,9 @@
+<template>
+
+    <p>Id: {id} </p>
+    <p>Nome: {name} </p>
+    <p>Valor: {value} </p>
+    <p>Fase: {stagename} </p>
+
+
+</template>
