@@ -1,0 +1,7 @@
+<template>
+    <p>Nome {name}  </p>
+    <p>Sobrenome {fristname} </p>
+    <p>Empresa {company} </p>
+    <p>Telefone {phone} </p>
+    <p>CPF {cpf} </p>
+</template>
